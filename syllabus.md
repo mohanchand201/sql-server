@@ -1,4 +1,4 @@
-# sql-server course content 
+# SQLSERVER COURSE CONTENT
 
 1. Introduction to RDBMS 
 2. Architecture of sql server - PART 1 
